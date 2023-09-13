@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/FocusTeam10/",
+    "build": "vite build --base=/html_css_95_hloba-ukraine/",
     "preview": "vite preview"
   },
   "devDependencies": {
